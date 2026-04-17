@@ -1,4 +1,4 @@
 # Week 1 - Lab Environment Setup 
-Nmae Um-e-Habiba
-/nRoll no FA23-BSE-065
-/nSection A
+Name Um-e-Habiba
+Roll no FA23-BSE-065
+Section A

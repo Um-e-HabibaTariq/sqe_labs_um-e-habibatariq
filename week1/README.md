@@ -2,7 +2,7 @@
 # Software Quality Engineering - Lab 01
 **Environment Setup & First Test Execution**
 
-## 👤 Student Information
+##  Student Information
 * **Name:** Um-e-Habiba Tariq
 * **Roll Number:** FA23-BSE-065
 * **Section:** A
@@ -10,7 +10,7 @@
 
 ---
 
-## 📝 Task Description
+##  Task Description
 The goal of this lab was to establish a professional software testing environment and execute unit tests using the `pytest` framework. The lab was divided into three core experiments and a final graded challenge.
 
 ### Key Objectives:
@@ -32,7 +32,7 @@ Implemented a String Utility module containing functions for:
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. **Navigate to the directory:**
    ```bash
